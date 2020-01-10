@@ -1,0 +1,11 @@
+baseURL = "http://bioinformatic.fun/"
+languageCode = "en-gb"
+title = "bioinformatic fun"
+theme = "hugo-notepadium"
+
+[params]
+style = "light"
+
+[params.syntax]
+use = "none"
+style = "vim"
